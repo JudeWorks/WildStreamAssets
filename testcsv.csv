@@ -1,4 +1,4 @@
 Title,URL,Description,Type,DisplayDuration,Cache
-Terry,https://m.media-amazon.com/images/I/61mLzKi0mbL._AC_SL1500_.jpg,Terry,Photo,10,Yes
-Pokey,https://m.media-amazon.com/images/I/71-Q5TRQJTL._AC_SL1500_.jpg,Pokey,Photo,10,Yes
-Chompy,https://m.media-amazon.com/images/I/8153mG+qVgL._AC_SL1500_.jpg,Chompy,Photo,10,Yes
+Animation 1,https://github.com/JudeWorks/WildStreamAssets/raw/refs/heads/main/animation1.m4v,A rainy day video,Video,,Yes
+Animation 2,https://github.com/JudeWorks/WildStreamAssets/raw/refs/heads/main/animation2.mov,Embers Are Alive,Video,,Yes
+Animation 3,https://github.com/JudeWorks/WildStreamAssets/raw/refs/heads/main/animation3.mov,Daydreaming,Video,,Yes
